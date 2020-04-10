@@ -1,2 +1,0 @@
-# ShoeMart
-Shoemart website
